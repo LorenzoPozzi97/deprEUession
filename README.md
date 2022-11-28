@@ -1,2 +1,2 @@
 # deprEUession
-Analyzed the correlation between level of education and depressive syntomns in EU citizens. The result obtrained running various statistical models, including one-way ANOVA (p<<.005) and non-parametric T-tests (p<<.005), revaled that lower level of education are correlated to higher depressive levels. 
+Analyzed the correlation between level of education and depressive symptoms in EU citizens. The result obtained running various statistical models, including one-way ANOVA (p<<.005) and non-parametric T-tests (p<<.005), revealed that lower level of education are correlated to higher depressive levels. 
